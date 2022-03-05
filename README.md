@@ -35,3 +35,12 @@ All div elements re-written in semantic HTML div elements
 ### Title
 
 Reformatted to match company name
+
+### CSS
+
+CSS consolidated
+Designators grouped by section and in order
+
+### CSS and HTML notes
+
+Added Notes to all CSS and HTML sections   
